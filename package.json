@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "t-kusakabe <ttmac0704@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
   "devDependencies": {
     "ts-loader": "5.3.0",
     "typescript": "3.1.6",
